@@ -68,16 +68,7 @@
                       </div>
                       <div class="row">
 
-                        <p> bryh ipsum dolor sit amet,
-                          consectetur adipiscing elit, sed do
-                          eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam,
-                          quis nostrud exercitation ullamco laboris nisi ut
-                          aliquip ex ea commodo consequat. Duis aute irure
-                          dolor in reprehenderit in voluptate velit esse cillum
-                          dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                          cupidatat non proident, sunt in culpa qui officia deserunt
-                          mollit anim id est laborum.</p>
+                        <p> Rental Price (Per Day): $300.75<br>Insurance (Per Day): $50<br>Total (Per Day): $350.75</p>
                       </div>
                     </div>
                   </div>
@@ -140,16 +131,7 @@
                         </div>
                         <div class="row">
 
-                          <p> bruhyy ipsum dolor sit amet,
-                            consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat. Duis aute irure
-                            dolor in reprehenderit in voluptate velit esse cillum
-                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum.</p>
+                          <p> Rental Price (Per Day): $250.99<br>Insurance (Per Day): $50<br>Total (Per Day): $300.99</p>
                         </div>
                       </div>
                     </div>
@@ -214,16 +196,7 @@
                         </div>
                         <div class="row">
 
-                          <p> Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat. Duis aute irure
-                            dolor in reprehenderit in voluptate velit esse cillum
-                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum.</p>
+                          <p> Rental Price (Per Day): $69.69<br>Insurance (Per Day): $50<br>Total (Per Day): $119.69</p>
                         </div>
                       </div>
                     </div>
@@ -288,16 +261,7 @@
                         </div>
                         <div class="row">
 
-                          <p> Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat. Duis aute irure
-                            dolor in reprehenderit in voluptate velit esse cillum
-                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum.</p>
+                          <p> Rental Price (Per Day): $299.99<br>Insurance (Per Day): $50<br>Total (Per Day): $349.99 ($386.44 with optional driver)</p>
                         </div>
                       </div>
                     </div>
@@ -359,16 +323,7 @@
                         </div>
                         <div class="row">
 
-                          <p> Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat. Duis aute irure
-                            dolor in reprehenderit in voluptate velit esse cillum
-                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum.</p>
+                          <p> Rental Price (Per Day): $287.29<br>Insurance (Per Day): $50<br>Total (Per Day): $337.29</p>
                         </div>
                       </div>
                     </div>
@@ -389,6 +344,7 @@
             <div class="card-body">
               <h5 class="card-title">2009 Ford F-350 Platinum Extended Cab Dully Edition 6.4 L V8 Diesel (White)</h5>
               <p class="card-text">Class: Hyper</p>
+              <p class="card-text">Rental Price (Per Day): $81.65</p>
               <p class="card-text">Built Ford Tough. The F-350 is the most fastest, luxurious vehicle on the planet. The
                 F-350 is the most powerful there is,
                 made for a powerful individual.
@@ -431,16 +387,7 @@
                         </div>
                         <div class="row">
 
-                          <p> Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat. Duis aute irure
-                            dolor in reprehenderit in voluptate velit esse cillum
-                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum.</p>
+                          <p> Rental Price (Per Day): $81.65<br>Insurance (Per Day): $50<br>Total (Per Day): $131.65</p>
                         </div>
                       </div>
                     </div>
@@ -504,16 +451,7 @@
                         </div>
                         <div class="row">
 
-                          <p> Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat. Duis aute irure
-                            dolor in reprehenderit in voluptate velit esse cillum
-                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum.</p>
+                          <p> Rental Price (Per Day): $420.69 ($457.14 with optional driver)<br>Insurance (Per Day): $50<br>Total (Per Day): $470.69 ($507.14 with optional driver)</p>
                         </div>
                       </div>
                     </div>
@@ -578,16 +516,7 @@
                         </div>
                         <div class="row">
 
-                          <p> Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat. Duis aute irure
-                            dolor in reprehenderit in voluptate velit esse cillum
-                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum.</p>
+                          <p> Rental Price (Per Day): $420.69 ($457.14 with optional driver)<br>Insurance (Per Day): $50<br>Total (Per Day): $470.69 ($507.14 with optional driver)</p>
                         </div>
                       </div>
                     </div>
@@ -655,16 +584,7 @@
                         </div>
                         <div class="row">
 
-                          <p> Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat. Duis aute irure
-                            dolor in reprehenderit in voluptate velit esse cillum
-                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum.</p>
+                          <p> Rental Price (Per Day): $432.13<br>Insurance (Per Day): $50<br>Total (Per Day): $482.13</p>
                         </div>
                       </div>
                     </div>
@@ -681,6 +601,10 @@
         </div>
       </div>
     </div>
+    <?php
+  include 'footer.php'
+  ?>
+
     <!-- <div class="container-fluid">
       <div class="container">
         <div class="row">

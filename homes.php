@@ -140,16 +140,7 @@
                       </div>
                     </div>
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $759.25<br>Insurance (Per Day): $100<br>Total (Per Day): $859.25</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -214,16 +205,7 @@
                         </button>
                       </div>
                       <div class="row">
-                        <p> Lorem ipsum dolor sit amet,
-                          consectetur adipiscing elit, sed do
-                          eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam,
-                          quis nostrud exercitation ullamco laboris nisi ut
-                          aliquip ex ea commodo consequat. Duis aute irure
-                          dolor in reprehenderit in voluptate velit esse cillum
-                          dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                          cupidatat non proident, sunt in culpa qui officia deserunt
-                          mollit anim id est laborum.</p>
+                        <p> Rental Price (Per Day): $600.69<br>Insurance (Per Day): $100<br>Total (Per Day): $700.69</p>
                       </div>
                     </div>
                   </div>
@@ -292,16 +274,7 @@
                       </div>
                       <div class="row">
 
-                        <p> Lorem ipsum dolor sit amet,
-                          consectetur adipiscing elit, sed do
-                          eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam,
-                          quis nostrud exercitation ullamco laboris nisi ut
-                          aliquip ex ea commodo consequat. Duis aute irure
-                          dolor in reprehenderit in voluptate velit esse cillum
-                          dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                          cupidatat non proident, sunt in culpa qui officia deserunt
-                          mollit anim id est laborum.</p>
+                        <p> Rental Price (Per Day): $548.99<br>Insurance (Per Day): $100<br>Total (Per Day): $648.99</p>
                       </div>
                     </div>
                   </div>
@@ -369,16 +342,7 @@
                       </div>
                       <div class="row">
 
-                        <p> Lorem ipsum dolor sit amet,
-                          consectetur adipiscing elit, sed do
-                          eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam,
-                          quis nostrud exercitation ullamco laboris nisi ut
-                          aliquip ex ea commodo consequat. Duis aute irure
-                          dolor in reprehenderit in voluptate velit esse cillum
-                          dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                          cupidatat non proident, sunt in culpa qui officia deserunt
-                          mollit anim id est laborum.</p>
+                        <p> Rental Price (Per Day): $496.99<br>Insurance (Per Day): $100<br>Total (Per Day): $596.99</p>
                       </div>
 
                     </div>
@@ -445,16 +409,7 @@
                       </div>
                     </div>
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $569.32<br>Insurance (Per Day): $100<br>Total (Per Day): $669.32</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -521,16 +476,7 @@
                       </div>
                     </div>
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $792.59<br>Insurance (Per Day): $100<br>Total (Per Day): $892.59</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -596,16 +542,7 @@
                       </div>
                     </div>
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $666.99<br>Insurance (Per Day): $100<br>Total (Per Day): $766.99</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -673,16 +610,7 @@
                       </div>
                     </div>
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $643.26<br>Insurance (Per Day): $100<br>Total (Per Day): $743.26</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -698,6 +626,10 @@
       </div>
     </div>
   </div>
+  <?php
+  include 'footer.php'
+  ?>
+
   <!-- <div class="container">
   <div class="row">
     <div class="col-sm-auto">

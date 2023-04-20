@@ -45,16 +45,7 @@
                   </div>
                   <div class="modal-body">
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $63.97<br>Insurance (Per Day): $10<br>Total (Per Day): $73.97</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -93,16 +84,7 @@
                   </div>
                   <div class="modal-body">
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $57.56<br>Insurance (Per Day): $10<br>Total (Per Day): $67.56</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -142,16 +124,7 @@
                   </div>
                   <div class="modal-body">
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $56.67<br>Insurance (Per Day): $10<br>Total (Per Day): $66.67</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -170,7 +143,7 @@
           <img src="images/gucci-yard-Belted-Silk-Dress.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Green Gucci Yard Belted Silk Dress</h5>
-            <p class="card-text">Rental Price (Per Day): 72.99$</p>
+            <p class="card-text">Rental Price (Per Day): $72.99</p>
             <p class="card-text">Introducing the stunning Green Gucci Yard Belted Silk Dress, the perfect choice for any
               woman who wants to make a statement at their next special event. This exquisite dress features a gorgeous
               emerald green hue, crafted from luxurious, high-quality silk that drapes beautifully over the body.
@@ -194,16 +167,7 @@
                   </div>
                   <div class="modal-body">
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $72.99<br>Insurance (Per Day): $10<br>Total (Per Day): $82.99</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -222,7 +186,7 @@
           <img src="images/Stella McCartney Cerulean Blue Dress.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Stella McCartney Cerulean Blue Dress</h5>
-            <p class="card-text">Rental Price (Per Day): 47.59$</p>
+            <p class="card-text">Rental Price (Per Day): $47.59</p>
             <p class="card-text">The Stella McCartney Cerulean Blue Dress is a must-have for anyone looking for a truly
               stunning and unforgettable formal gown. Its timeless design and exquisite craftsmanship make it a true
               work of art that is sure to impress anyone who sees it. The dress features a beautiful cerulean blue color
@@ -247,16 +211,7 @@
                   </div>
                   <div class="modal-body">
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $47.59<br>Insurance (Per Day): $10<br>Total (Per Day): $57.59</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -275,7 +230,7 @@
           <img src="images/Lemon.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">A Little Bit of Lemon, Lemon Dress</h5>
-            <p class="card-text">Rental Price (Per Day): 25.79$</p>
+            <p class="card-text">Rental Price (Per Day): $25.79</p>
             <p class="card-text">This cream-colored dress is a stunning piece that exudes sophistication and elegance.
               The dress features a beautiful printed pattern of lemons placed perfectly on the fabric, creating a
               visually appealing look that is perfect for any occasion. The lemon pattern is inspired by the
@@ -299,16 +254,7 @@
                   </div>
                   <div class="modal-body">
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $25.79<br>Insurance (Per Day): $10<br>Total (Per Day): $35.79</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -328,7 +274,7 @@
         <img src="images/supreme+hypebeast.jpg" alt="...">
         <div class="card-body">
           <h5 class="card-title">Supreme Hype Beast Outfit</h5>
-          <p class="card-text">Rental Price (Per Day): 87.29$</p>
+          <p class="card-text">Rental Price (Per Day): $87.29</p>
           <p class="card-text">This supreme outfit is a perfect combination of style and comfort that will make you
             stand out from the crowd. The outfit features a classic pair of blue jeans that are designed to provide a
             comfortable fit and a sleek, stylish look. The outfit also includes a striking red Supreme sweatshirt that
@@ -353,16 +299,7 @@
                   </div>
                   <div class="modal-body">
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $87.29<br>Insurance (Per Day): $10<br>Total (Per Day): $97.29</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -381,7 +318,7 @@
         <img src="images/Fur.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Maximilian Mink Fur Coat</h5>
-          <p class="card-text">Rental Price (Per Day): 45.87$</p>
+          <p class="card-text">Rental Price (Per Day): $45.87</p>
           <p class="card-text">The Maximilian Brown Mink Fur Coat is the epitome of luxury and sophistication. Crafted
             from the finest quality mink fur, this coat is incredibly soft to the touch, and boasts a rich, deep brown
             hue that exudes warmth and elegance. The coat features a classic collar and full-length sleeves, providing
@@ -405,16 +342,7 @@
                   </div>
                   <div class="modal-body">
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $45.87<br>Insurance (Per Day): $10<br>Total (Per Day): $55.87.</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -433,7 +361,7 @@
         <img src="images/VASTRAMAYpinkblazer.webp" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Vastramay Pink Blazer</h5>
-          <p class="card-text">Rental Price (Per Day): 69.72$</p>
+          <p class="card-text">Rental Price (Per Day): $69.72</p>
           <p class="card-text">Crafted with high-quality materials, this blazer features a soft pink hue that adds a
             touch of playful charm to any outfit. The slim fit cut enhances your silhouette, while the notch lapel and
             two-button closure provide a classic and timeless look. This blazer is designed for men who want to stand
@@ -454,16 +382,7 @@
                   </div>
                   <div class="modal-body">
                     <div class="row">
-                      <p> Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                      <p> Rental Price (Per Day): $69.71<br>Insurance (Per Day): $10<br>Total (Per Day): $79.71</p>
                     </div>
                   </div>
                   <div class="modal-footer">
@@ -479,6 +398,10 @@
     </div>
   </div>
   </div>
+  <?php
+  include 'footer.php'
+  ?>
+
   <!-- <div class="container">
     <div class="row">
       <div class="col-sm-auto">

@@ -94,8 +94,18 @@ color: white;
 }
 .foot{
   color:white;
+  margin-top: 25px;
   }
 .imgcenter{
   text-align: center;
 
+}
+.indextxt{
+  background-color: rgb(83, 81, 81);
+  margin-top: 100px;
+}
+.indexbkgrnd{
+    background-image: url("images/Colorado.png");
+    background-repeat: no-repeat;
+    width: auto;
 }

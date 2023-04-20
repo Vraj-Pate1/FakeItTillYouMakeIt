@@ -12,36 +12,96 @@
     integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
   </script>
 
-<body background="images/Colorado.png">
+<body>
 
   <?php
   include 'header.php'
   ?>
-  <section id="text_1">
+  <section class="indexbkgrnd">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <section id="text_1">
     <div class="container">
       <div class="row">
         <div class="col-md-6">
 
         </div>
         <div class="col-md-6">
-          <h1 style="background-color:rgba(0, 0, 0, 0);color:white;">Fake it Till You Make it</h1>
-          <p style="background-color:rgba(0, 0, 0, 0);color:rgb(0, 0, 0);">Fake it Till You Make it offers
-            luxury home, car, and clothing rentals to help people live out their millionaire dreams.
-            Our goal is to provide an elevated experience and let our clients
-            live their aspirations through our rental services.
+          <h1 style="background-color:rgba(0, 0, 0, 0);color:black;">Fake it Till You Make it</h1>
+          <p style="background-color:rgba(0, 0, 0, 0);color:rgb(0, 0, 0);"> Est. 2023
           </p>
-          <div class="btn-group">
-            <a href="About_us.html" class="btn btn-warning">Learn More</a>
-            <a href="catalog.html" class="btn btn-warning">Catalog</a>
-            <a href="contact.html" class="btn btn-warning">Contact</a>
-          </div>
 
         </div>
       </div>
     </div>
   </section>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </section>
+  <div class="index1">
+
   </div>
-  
+  </div>
+  <div class="indextxt">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-4">
+          <h3>What We Offer</h3>
+          <p>Fake it Till You Make it offers
+            luxury home, car, and clothing rentals to help people live out their millionaire dreams.
+            Our goal is to provide an elevated experience and let our clients
+            live their aspirations through our rental services.</p>
+            <div class="btn-group">
+            <a href="About_us.php" class="btn btn-warning">Learn More</a>
+            <a href="contact.php" class="btn btn-warning">Help Center</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <?php
+  include 'footer.php'
+  ?>
+
 </body>
 
 
