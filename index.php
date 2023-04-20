@@ -13,7 +13,6 @@
   </script>
 
 <body>
-
   <?php
   include 'header.php'
   ?>
@@ -41,51 +40,43 @@
       </div>
     </div>
   </section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 
-    <br>
-    <br>
-    <br>
-    <br>
-    
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
   </section>
+  
   <div class="index1">
-
-  </div>
-  </div>
+    
   <div class="indextxt">
+    <br>
+    <br>
+    <br>
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-4">
-          <h3>What We Offer</h3>
+           <h3>What We Offer</h3>
           <p>Fake it Till You Make it offers
             luxury home, car, and clothing rentals to help people live out their millionaire dreams.
             Our goal is to provide an elevated experience and let our clients
@@ -97,6 +88,11 @@
         </div>
       </div>
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
+
   </div>
   <?php
   include 'footer.php'

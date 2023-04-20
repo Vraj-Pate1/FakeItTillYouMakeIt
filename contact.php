@@ -182,25 +182,63 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4 text-white">
+        <div class="col-md-8 text-white">
           <h3 class="text-center">Contact Us</h3>
-          <p class="text-white"> Email us at fitymiUS@bmail.com</p>
-          <p class="text-white"> Call us at +1(800)-117-1234</p>
+<!-- Wrapper container -->
+<div class="container py-4">
 
+  <!-- Bootstrap 5 starter form -->
+  <form id="contactForm">
+
+    <!-- Name input -->
+    <div class="mb-3">
+      <label class="form-label" for="name">Name</label>
+      <input class="form-control" id="name" type="text" placeholder="Name" data-sb-validations="required" />
+      <div class="invalid-feedback" data-sb-feedback="name:required">Name is required.</div>
+    </div>
+
+    <!-- Email address input -->
+    <div class="mb-3">
+      <label class="form-label" for="emailAddress">Email Address</label>
+      <input class="form-control" id="emailAddress" type="email" placeholder="Email Address" data-sb-validations="required, email" />
+      <div class="invalid-feedback" data-sb-feedback="emailAddress:required">Email Address is required.</div>
+      <div class="invalid-feedback" data-sb-feedback="emailAddress:email">Email Address Email is not valid.</div>
+    </div>
+
+    <!-- Message input -->
+    <div class="mb-3">
+      <label class="form-label" for="message">Message</label>
+      <textarea class="form-control" id="message" type="text" placeholder="Message" style="height: 10rem;" data-sb-validations="required"></textarea>
+      <div class="invalid-feedback" data-sb-feedback="message:required">Message is required.</div>
+    </div>
+
+    <!-- Form submissions success message -->
+    <div class="d-none" id="submitSuccessMessage">
+      <div class="text-center mb-3">Form submission successful!</div>
+    </div>
+
+    <!-- Form submissions error message -->
+    <div class="d-none" id="submitErrorMessage">
+      <div class="text-center text-danger mb-3">Error sending message!</div>
+    </div>
+
+    <!-- Form submit button -->
+    <div class="d-grid">
+      <button class="btn btn-warning btn-lg" type="submit">Submit</button>
+    </div>
+
+  </form>
+
+</div>
 
         </div>
       </div>
     </div>
   </div>
-  <!-- <div class="container text-left">
-      <div class="row">
-        <div class="col">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.8464182853286!2d-88.8123696!3d35.77914880000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x887ea9b350633345%3A0x60f41d4f7ede47c0!2s25%20Calloway%20Cv%2C%20Medina%2C%20TN%2038355!5e0!3m2!1sen!2sus!4v1674754020648!5m2!1sen!2sus" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div>
-        </div>
-        <div class="col">
-        </div>
-      </div> -->
+  <?php
+  include 'footer.php'
+  ?>
+
 </body>
 
 </html>

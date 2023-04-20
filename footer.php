@@ -10,7 +10,7 @@
               <div class="col-md-6">
                 <h3>Questions?</h3>
                 <ul class="list-inline">
-                  <li class="list-inline-item"><a href="contact.html">Help Center</a></li>
+                  <li class="list-inline-item"><a href="contact.php">Help Center</a></li>
                   <li class="list-inline-item"><a href="#"></a></li>
                   <li class="list-inline-item"><a href="#"><i class="fab fa-instagram"></i></a></li>
                 </ul>

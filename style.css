@@ -14,13 +14,11 @@ background-repeat: no-repeat;
 .navbar {
   background: rgb(0,0,0);
   background: linear-gradient(90deg, rgba(0,0,0,1) 16%, rgba(255,193,0,1) 45%);} 
-/* link color. it does not change active link color.*/
 .nav-link {
   color: rgb(255, 255, 255); 
 }
-/* Style the active link in the navbar */
 .navbar a.active {
-  color: #fff; /* Replace #fff with your preferred active link color */
+  color: #fff; 
   text-decoration: underline;
 }
 .about_txt{
@@ -72,20 +70,6 @@ color: white;
   display: flex;
   align-items: center;
 }
-/*.accordion {
-
-  background-color:rgb(83, 81, 81);
-}
-.accordion-item {
-  background-color: rgb(83, 81, 81);
-}
-.accordion-header {
-  background-color: #ff0000;
-}
-.accordion-flush{
-  background-color: rgb(83, 81, 81);
-}
-*/
 .help1{
   background-color: rgb(83, 81, 81);
 }
@@ -94,7 +78,7 @@ color: white;
 }
 .foot{
   color:white;
-  margin-top: 25px;
+  margin-top: 0px;
   }
 .imgcenter{
   text-align: center;
@@ -102,7 +86,11 @@ color: white;
 }
 .indextxt{
   background-color: rgb(83, 81, 81);
-  margin-top: 100px;
+  margin-top: 50px;
+
+}
+.idnex1{
+  color: white;
 }
 .indexbkgrnd{
     background-image: url("images/Colorado.png");
