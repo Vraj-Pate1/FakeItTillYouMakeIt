@@ -191,7 +191,7 @@ include_once 'includes/dbh.inc.php';
           </div>
         </div>
         <div class="col-md-8 text-white">
-          <h3 class="text-center">Contact Us</h3>
+           <!-- <h3 class="text-center">Contact Us</h3>
           <p>Send E-Mail</p>
           <form class="contact-form" action="contactform.php" method="post">
            <input type="text" name= "name" placeholder="Full name">
@@ -199,28 +199,27 @@ include_once 'includes/dbh.inc.php';
            <input type="text" name="subject" placeholder="Subject">
            <textarea name= "message" placeholder="Message"></textarea>
            <button type="submit" name="submit">SEND MAIL</button>
-          </form>
-          <!--
+          </form> -->
 <div class="container py-4">
 
-  <form id="contactForm">
+<form id="contactForm" action="http://yourdomain.com/contact.php" method="POST">
 
     <div class="mb-3">
       <label class="form-label" for="name">Name</label>
-      <input class="form-control" id="name" type="text" placeholder="Name" data-sb-validations="required" />
+      <input class="form-control" id="name" type="text" name="name" placeholder="Name" data-sb-validations="required" />      
       <div class="invalid-feedback" data-sb-feedback="name:required">Name is required.</div>
     </div>
 
     <div class="mb-3">
       <label class="form-label" for="emailAddress">Email Address</label>
-      <input class="form-control" id="emailAddress" type="email" placeholder="Email Address" data-sb-validations="required, email" />
+      <input class="form-control" id="emailAddress" type="email" name="emailAddress" placeholder="Email Address" data-sb-validations="required, email" />
       <div class="invalid-feedback" data-sb-feedback="emailAddress:required">Email Address is required.</div>
       <div class="invalid-feedback" data-sb-feedback="emailAddress:email">Email Address Email is not valid.</div>
     </div>
 
     <div class="mb-3">
       <label class="form-label" for="message">Message</label>
-      <textarea class="form-control" id="message" type="text" placeholder="Message" style="height: 10rem;" data-sb-validations="required"></textarea>
+      <textarea class="form-control" id="message" type="text" name="message" placeholder="Message" style="height: 10rem;" data-sb-validations="required"></textarea>
       <div class="invalid-feedback" data-sb-feedback="message:required">Message is required.</div>
     </div>
 
@@ -236,7 +235,7 @@ include_once 'includes/dbh.inc.php';
       <button class="btn btn-warning btn-lg" type="submit">Submit</button>
     </div>
 
-  </form> -->
+  </form>
 
 </div>
 

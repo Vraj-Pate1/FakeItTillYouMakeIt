@@ -291,8 +291,8 @@ include_once 'includes/dbh.inc.php';
               <h5 class="card-title">2017 Ford GT</h5>
               <p class="card-text">Class: Super</p>
               <p class="card-text">Rental Price (Per Day): $287.29</p>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-                content.</p>
+              <p class="card-text">Equipped with a EcoBoost V6, the 2017 Ford Gt keeps the legacy of the Gt going. 
+                The Gt is a exclusive vehicle for individuals Ford selects. Driving the Gt is both an honor and a great experience.</p>
               <!-- Button trigger modal -->
               <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop14">
                 Learn More

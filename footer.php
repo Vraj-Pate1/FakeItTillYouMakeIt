@@ -1,4 +1,4 @@
-<div class="foot">
+<div class="foot text-white">
       <div class="container-fluid">
         <footer  class="footer-expand-lg" style="  background: rgb(0,0,0);
   background: linear-gradient(90deg, rgba(0,0,0,1) 16%, rgba(255,193,0,1) 45%);} 

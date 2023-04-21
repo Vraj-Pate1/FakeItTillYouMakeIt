@@ -179,7 +179,9 @@ include_once 'includes/dbh.inc.php';
                                 </div>
                                 <h4 class="text-primary mt-4 mb-3">Dream Come True!!!</h4>
                                 <div class="review-text">
-                                    <p></p>
+                                    <p>I've always wondered what it felt like to be a millionaire. Fake It Till You Make It made my dream
+                                        come true. My total was a bit pricey but it was great for what i got. I got my millionaire expericnce at a fraction of the cost.
+                                    </p>
                                 </div>
                                 <div class="quot-icon">
                                     <img class="avatar-md" src="assets/img/icon/quote.png" alt="">
@@ -190,7 +192,7 @@ include_once 'includes/dbh.inc.php';
                                     <img class="avatar-lg radius-100" src="assets/img/avatar/avatar-3.png" alt="">
                                 </div>
                                 <div class="reviewer-meta media-body align-self-center ml-4">
-                                    <h5 class="reviewer-name color-primary mb-2">Johnny Sins</h5>
+                                    <h5 class="reviewer-name color-primary mb-2">Crystal J</h5>
                                     <h6 class="text-secondary fw-6">Rented on March 15 2023</h6>
                                 </div>
                             </div>

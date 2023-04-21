@@ -1,14 +1,19 @@
 <?php
-if (isset($_POST['submit'])){
-    $name = $_POST['name'];
-    $subject = $_POST['subject'];
-    $mailFrom = $_POST['mail'];
-    $message = $_POST['message'];
-    $mailTo = "Vraj.patel@students.jmcss.org";
-    $headers="From: FakeItTillYouMakeIt" .$mailFrom;
-    $txt="You have recived an e-mail from" .$name.".\n\n".$message;
-mail($mailTo, $subject, $txt, $headers);
-header("Locaton: contact.php?mailsend");
-
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+  $name = $_POST["name"];
+  $email = $_POST["emailAddress"];
+  $message = $_POST["message"];
+  
+  $to = "vraj.patel@students.jmcss.org";
+  $subject = "New message from contact form";
+  $body = "Name: $name\nEmail: $email\n\n$message";
+  
+  if (mail($to, $subject, $body)) {
+    http_response_code(200);
+    echo "Thank You! Your message has been sent.";
+  } else {
+    http_response_code(500);
+    echo "Oops! Something went wrong and we couldn't send your message.";
+  }
 }
 ?>
