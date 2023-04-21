@@ -1,3 +1,7 @@
+<?php
+include_once 'includes/dbh.inc.php';
+?>
+
 <!doctype html>
 <html lang="en">
 
@@ -13,6 +17,10 @@
   </script>
 
 <body>
+<?php
+  $conn;
+  ?>
+
 
   <?php
   include 'header.php'
