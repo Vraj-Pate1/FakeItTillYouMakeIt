@@ -77,7 +77,7 @@ include_once 'includes/dbh.inc.php';
     <br>
     <br>
     <br>
-    <div class="container-fluid">
+    <div class="container-fluid text-white">
       <div class="row">
         <div class="col-md-4">
            <h3 class="text-center">What We Offer</h3>
@@ -112,9 +112,12 @@ include_once 'includes/dbh.inc.php';
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                 </div>
-                                <h4 class="text-primary mt-4 mb-3">Excellent service &amp; support!!</h4>
+                                <h4 class="text-primary mt-4 mb-3">Excellent service!!!</h4>
                                 <div class="review-text">
-                                    <p>I rented out a Lamborghini Urus out for the weekend to show my friend. The car came very clean but it had a few chips in the spoiler. They refunded me part of my money and the support helped me during my whole process. I will definitely rent with them again.</p>
+                                    <p>Rental process was a breeze. Just pick what you want and check out.
+                                        I thought they might take a while to run the backround check, but it only took an hour for me to be approved.
+                                        This is the first compnay i have ever rented from that has a fast and easy rental process. 10/10.
+                                    </p>
                                 </div>
                                 <div class="quot-icon">
                                     <img class="avatar-md" src="#" alt="">
@@ -125,7 +128,7 @@ include_once 'includes/dbh.inc.php';
                                     <img class="avatar-lg radius-100" src="assets/img/avatar/avatar-1.png" alt="">
                                 </div>
                                 <div class="reviewer-meta media-body align-self-center ml-4">
-                                    <h5 class="reviewer-name color-primary mb-2">Josh cox</h5>
+                                    <h5 class="reviewer-name color-primary mb-2">Yash Patel</h5>
                                     <h6 class="text-secondary fw-6">Rented on January 3 2023</h6>
                                 </div>
                             </div>
@@ -143,7 +146,11 @@ include_once 'includes/dbh.inc.php';
                                 </div>
                                 <h4 class="text-primary mt-4 mb-3">Nice work! Keep it up</h4>
                                 <div class="review-text">
-                                    <p>I wanted to host a party in Los Angles and the prices of house on airbnb were over 1000 but then I found this website that rents out mansions for very cheap. The house came with a free bottle of champagne and it was very cleaned. I will definitely tell my friend to rent from this place.  </p>
+                                    <p>I wanted to have a party in Las Vegas. Fake It Till You Make It had exaclty what
+                                        i was looking for. I rented the Vegas Home, A Rolls Royce Phanton, and the Hype Beast
+                                        Outfit. The home was very clean and the Phantom drove well and was also clean.
+                                        The outfit was in excellent condition. 10/10.
+                                    </p>
                                 </div>
                                 <div class="quot-icon">
                                     <img class="avatar-md" src="assets/img/icon/quote.png" alt="">
@@ -154,7 +161,7 @@ include_once 'includes/dbh.inc.php';
                                     <img class="avatar-lg radius-100" src="assets/img/avatar/avatar-2.png" alt="">
                                 </div>
                                 <div class="reviewer-meta media-body align-self-center ml-4">
-                                    <h5 class="reviewer-name color-primary mb-2">Champ Nguion</h5>
+                                    <h5 class="reviewer-name color-primary mb-2">Carl Smith</h5>
                                     <h6 class="text-secondary fw-6">Rented on Febuary 22 2023</h6>
                                 </div>
                             </div>
@@ -170,9 +177,9 @@ include_once 'includes/dbh.inc.php';
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                 </div>
-                                <h4 class="text-primary mt-4 mb-3">Excellent!</h4>
+                                <h4 class="text-primary mt-4 mb-3">Dream Come True!!!</h4>
                                 <div class="review-text">
-                                    <p>I wanted to rent out a supreme hypebeast outfit for the gram. The outfit came in a nice Louis Vuitton duffle bag. The outfit came in perfect condtion and they give me a 25 percent of coupon for one of there luxery vehicles. It really fooled my follwers that I was rich and will defintly order with them again.</p>
+                                    <p></p>
                                 </div>
                                 <div class="quot-icon">
                                     <img class="avatar-md" src="assets/img/icon/quote.png" alt="">
@@ -195,9 +202,6 @@ include_once 'includes/dbh.inc.php';
         </div>
       </div>
     </div>
-    <br>
-    <br>
-    <br>
     <br>
     <br>
   </div>
