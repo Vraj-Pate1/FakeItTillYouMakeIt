@@ -221,7 +221,7 @@ include_once 'includes/dbh.inc.php';
         </div>
         <div class="col">
           <div class="card border-warning mb-3 card h-100">
-            <img src="images/Maybach.png" class="card-img-top" alt="...">
+            <img src="images/Maybach.png" class="card-img-top" alt="nothing">
             <div class="card-body">
               <h5 class="card-title">2023 Mercedes Maybach S Class</h5>
               <p class="card-text">Class: Luxury Sedan</p>
