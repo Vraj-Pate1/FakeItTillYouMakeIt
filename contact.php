@@ -1,9 +1,6 @@
 <?php
 include_once 'includes/dbh.inc.php';
 ?>
-<?php
-include 'contactform.php';
-?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -203,15 +200,30 @@ include 'contactform.php';
         </div>
         <div class="col-md-8 text-white">
            <h3 class="text-center">Contact Us</h3>
-          <p>Send E-Mail</p>
+           <p>Send E-Mail</p>
           <form class="contact-form" action="contactform.php" method="post">
-           <input type="text" name= "name" placeholder="Full name">
-           <input type="text" name="email" placeholder="Your e-mail">
-           <input type="text" name="subject" placeholder="Subject">
-           <textarea name= "message" placeholder="Message"></textarea>
+            <div class="row">
+            <input type="text" name= "name" placeholder="Full name">
+            </div>
+            <div class="row">
+            <input type="text" name="email" placeholder="Your e-mail">
+            </div>
+            <div class="row">
+            <input type="text" name="subject" placeholder="Subject">
+            </div>
+            <div class="row">
+            <textarea name= "message" placeholder="Message"></textarea>
            <button type="submit" name="submit">SEND MAIL</button>
+            </div>
           </form> 
-<div class="container py-4">
+        <div class="text-center text-md-left">
+        </div>
+        <div class="status"></div>
+    </div>
+</div>
+
+</section>
+         <div class="container py-4">
         </div>
       </div>
     </div>

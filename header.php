@@ -14,7 +14,7 @@
             <a class="nav-link" href="About_us.php">About Us</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="catalog.php" role="button" data-bs-toggle="dropdown"
+            <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"
               aria-expanded="false">
               Products
             </a>

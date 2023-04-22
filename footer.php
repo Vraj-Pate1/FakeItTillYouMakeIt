@@ -23,6 +23,8 @@
           </div>
           <br>
           <br>
+          <br>
+          <p class="text-center">"Fake It Till You Make It" <br> By 2009 Ford F-350 Platinum Extended Cab Dully Edition 6.4 L V8 Diesel (White)</p>
         </footer>
       </div>
     </div>
