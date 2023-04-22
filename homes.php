@@ -27,18 +27,20 @@ include_once 'includes/dbh.inc.php';
   <div class="container-fluid">
 
   </div>
-  <h1 class="text-white">Homes</h1>
+  <h1 class="text-white text-center">Homes</h1>
   <div class="container-fluid">
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card border-warning mb-3 card h-100">
-          <img src="images/Tennessee.png" class="card-img-top" alt="...">
+          <img src="images/nash1.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">47 Branch Creek Dr, Jackson TN</h5>
-            <p class="card-text">Rental Price (Per Day): $349.59</p>
-            <p class="card-text">4 bed and 3 bath</p>
-            <p class="card-text">A great house in a great neighborhood. This home is perfect for some one
-              that wants to live as a wealthy home owner but doesn't want the glitz and glamor of a mansion.
+            <h5 class="card-title">1019 Stonewall Dr, Nashville, TN 37220</h5>
+            <p class="card-text">Rental Price (Per Day): $647.25</p>
+            <p class="card-text">7 bed and 11 bath</p>
+            <p class="card-text">Located in Music City, this Tennessee mansion is 
+              sure to be a great place to live. Featuring a game room, media room, home gym, porch, patio, pool and spa,
+              there is never a boring moment. The home is also equipped with a gourmet kitchen, perfect for cooking 5 star meals.
+              This mansion is perfect for throwing Friday Night parties or relaxing on a Sunday.
             </p>
 
             <!-- Button trigger modal -->
@@ -60,13 +62,13 @@ include_once 'includes/dbh.inc.php';
                       <div id="carouselExampleFade" class="carousel slide carousel-fade">
                         <div class="carousel-inner">
                           <div class="carousel-item active">
-                            <img src="" class="d-block w-100" alt="...">
+                            <img src="images/nash2.png" class="d-block w-100" alt="...">
                           </div>
                           <div class="carousel-item">
-                            <img src="..." class="d-block w-100" alt="...">
+                            <img src="images/nash3.png" class="d-block w-100" alt="...">
                           </div>
                           <div class="carousel-item">
-                            <img src="images/" class="d-block w-100" alt="...">
+                            <img src="images/nash4.png" class="d-block w-100" alt="...">
                           </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade"
@@ -80,9 +82,10 @@ include_once 'includes/dbh.inc.php';
                           <span class="visually-hidden">Next</span>
                         </button>
                       </div>
+                      <div class="row">
+                      <p> Rental Price (Per Day): $647.25<br>Insurance (Per Day): $100<br>Total (Per Day): $747.25</p>
                     </div>
-                    <div class="row">
-                      <p> <a href="contact.html">Terms and Condition</a></p>
+                      <p> <a href="contact.html"></a></p>
                     </div>
                   </div>
                   <div class="modal-footer">

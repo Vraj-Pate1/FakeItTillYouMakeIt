@@ -1,7 +1,6 @@
 <?php
 include_once 'includes/dbh.inc.php';
 ?>
-
 <!doctype html>
 <html lang="en">
 
@@ -75,7 +74,7 @@ include_once 'includes/dbh.inc.php';
       <div class="row">
         <div class="col-md-6">
           <div class="imgcenter">
-            <img src="images/How we start.jpg" height="360">
+            <img src="images/How we start.jpg" height="350">
           </div>
         </div>
         <div class="col-md-6">

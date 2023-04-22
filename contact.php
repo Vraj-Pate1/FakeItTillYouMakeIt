@@ -1,6 +1,9 @@
 <?php
 include_once 'includes/dbh.inc.php';
 ?>
+<?php
+include_once 'process_form.php';
+?>
 
 <!doctype html>
 <html lang="en">
@@ -15,6 +18,7 @@ include_once 'includes/dbh.inc.php';
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
   </script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/validate.js/0.13.1/validate.min.js"></script>
 
 <body>
 <?php
@@ -26,11 +30,15 @@ include_once 'includes/dbh.inc.php';
   include 'header.php'
   ?>
   <div class="container-fluid">
+  <br>
     <div class="row">
       <h1 class="text-center text-white"> Help center</h1>
     </div>
+    <br>
   </div>
   <div class="help1">
+    <br>
+    <br>
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-4 text-center">
@@ -142,8 +150,13 @@ include_once 'includes/dbh.inc.php';
         </div>
       </div>
     </div>
+    <br>
+    <br>
+
   </div>
   <div class="help2">
+  <br>
+    <br>
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-4 text-white">
@@ -202,42 +215,14 @@ include_once 'includes/dbh.inc.php';
           </form> -->
 <div class="container py-4">
 
-<form id="contactForm" action="http://localhost/FakeItTillYouMakeIt/contact.php" method="POST">
+<form method="POST" action="form.php" id="contact-form">
+<h2>Contact us</h2>
+<p><label>First Name:</label> <input name="name" type="text" /></p>
+<p><label>Email Address:</label> <input style="cursor: pointer;" name="email" type="text" /></p>
+<p><label>Message:</label>  <textarea name="message"></textarea> </p>
 
-    <div class="mb-3">
-      <label class="form-label" for="name">Name</label>
-      <input class="form-control" id="name" type="text" name="name" placeholder="Name" data-sb-validations="required" />      
-      <div class="invalid-feedback" data-sb-feedback="name:required">Name is required.</div>
-    </div>
-
-    <div class="mb-3">
-      <label class="form-label" for="emailAddress">Email Address</label>
-      <input class="form-control" id="emailAddress" type="email" name="emailAddress" placeholder="Email Address" data-sb-validations="required, email" />
-      <div class="invalid-feedback" data-sb-feedback="emailAddress:required">Email Address is required.</div>
-      <div class="invalid-feedback" data-sb-feedback="emailAddress:email">Email Address Email is not valid.</div>
-    </div>
-
-    <div class="mb-3">
-      <label class="form-label" for="message">Message</label>
-      <textarea class="form-control" id="message" type="text" name="message" placeholder="Message" style="height: 10rem;" data-sb-validations="required"></textarea>
-      <div class="invalid-feedback" data-sb-feedback="message:required">Message is required.</div>
-    </div>
-
-    <div class="d-none" id="submitSuccessMessage">
-      <div class="text-center mb-3">Form submission successful!</div>
-    </div>
-
-    <div class="d-none" id="submitErrorMessage">
-      <div class="text-center text-danger mb-3">Error sending message!</div>
-    </div>
-
-    <div class="d-grid">
-      <button class="btn btn-warning btn-lg" type="submit">Submit</button>
-    </div>
-
-  </form>
-
-</div>
+<p><input type="submit" value="Send" /></p>
+</form></div>
 
         </div>
       </div>

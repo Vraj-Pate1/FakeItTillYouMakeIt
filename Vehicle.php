@@ -1,7 +1,6 @@
 <?php
 include_once 'includes/dbh.inc.php';
 ?>
-
 <!doctype html>
 <html lang="en">
 
@@ -25,7 +24,7 @@ include_once 'includes/dbh.inc.php';
   <?php
   include 'header.php'
   ?>
-  <h1>Vehicles</h1>
+  <h1 class="text-center text-white">Vehicles</h1>
   <div class="container-fluid">
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
