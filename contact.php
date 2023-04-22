@@ -2,12 +2,10 @@
 include_once 'includes/dbh.inc.php';
 ?>
 <?php
-include_once 'process_form.php';
+include 'contactform.php';
 ?>
-
 <!doctype html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -204,26 +202,16 @@ include_once 'process_form.php';
           </div>
         </div>
         <div class="col-md-8 text-white">
-           <!-- <h3 class="text-center">Contact Us</h3>
+           <h3 class="text-center">Contact Us</h3>
           <p>Send E-Mail</p>
           <form class="contact-form" action="contactform.php" method="post">
            <input type="text" name= "name" placeholder="Full name">
-           <input type="text" name= "mail" placeholder= "Your e-mail">
+           <input type="text" name="email" placeholder="Your e-mail">
            <input type="text" name="subject" placeholder="Subject">
            <textarea name= "message" placeholder="Message"></textarea>
            <button type="submit" name="submit">SEND MAIL</button>
-          </form> -->
+          </form> 
 <div class="container py-4">
-
-<form method="POST" action="form.php" id="contact-form">
-<h2>Contact us</h2>
-<p><label>First Name:</label> <input name="name" type="text" /></p>
-<p><label>Email Address:</label> <input style="cursor: pointer;" name="email" type="text" /></p>
-<p><label>Message:</label>  <textarea name="message"></textarea> </p>
-
-<p><input type="submit" value="Send" /></p>
-</form></div>
-
         </div>
       </div>
     </div>
