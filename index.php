@@ -35,7 +35,6 @@ include_once 'includes/dbh.inc.php';
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-
         </div>
         <div class="col-md-6">
           <h1 style="background-color:rgba(0, 0, 0, 0);color:black;">Fake it Till You Make it</h1>
@@ -46,11 +45,6 @@ include_once 'includes/dbh.inc.php';
       </div>
     </div>
   </section>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
     <br>
     <br>
     <br>
@@ -161,7 +155,7 @@ include_once 'includes/dbh.inc.php';
                                     <img class="avatar-lg radius-100" src="assets/img/avatar/avatar-2.png" alt="">
                                 </div>
                                 <div class="reviewer-meta media-body align-self-center ml-4">
-                                    <h5 class="reviewer-name color-primary mb-2">Carl Smith</h5>
+                                    <h5 class="reviewer-name color-primary mb-2">Veer Patel</h5>
                                     <h6 class="text-secondary fw-6">Rented on Febuary 22 2023</h6>
                                 </div>
                             </div>
@@ -180,7 +174,7 @@ include_once 'includes/dbh.inc.php';
                                 <h4 class="text-primary mt-4 mb-3">Dream Come True!!!</h4>
                                 <div class="review-text">
                                     <p>I've always wondered what it felt like to be a millionaire. Fake It Till You Make It made my dream
-                                        come true. My total was a bit pricey but it was great for what i got. I got my millionaire expericnce at a fraction of the cost.
+                                        come true. My total was a bit pricey but it was great for what i got. I got my millionaire expericnce at a fraction of the cost. 10/10
                                     </p>
                                 </div>
                                 <div class="quot-icon">
@@ -208,8 +202,8 @@ include_once 'includes/dbh.inc.php';
     <br>
   </div>
   <br>
-    <br>
-
+  <br>
+  <br>
   <?php
   include 'footer.php'
   ?>

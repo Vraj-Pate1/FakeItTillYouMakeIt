@@ -3,6 +3,8 @@
         <footer  class="footer-expand-lg" style="  background: rgb(0,0,0);
   background: linear-gradient(90deg, rgba(0,0,0,1) 16%, rgba(255,193,0,1) 45%);} 
   padding: 20px;">
+            <br>
+            <br>
           <div class="container">
             <div class="row">
               <div class="col-md-6">
@@ -19,6 +21,8 @@
               </div>
             </div>
           </div>
+          <br>
+          <br>
         </footer>
       </div>
     </div>

@@ -1,7 +1,6 @@
 <?php
 include_once 'includes/dbh.inc.php';
 ?>
-
 <!doctype html>
 <html lang="en">
 
@@ -634,167 +633,11 @@ include_once 'includes/dbh.inc.php';
       </div>
     </div>
   </div>
+  <br>
+  <br>
+  <br>
   <?php
   include 'footer.php'
   ?>
 
-  <!-- <div class="container">
-  <div class="row">
-    <div class="col-sm-auto">
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="https://drive.google.com/uc?export=view&id=1G_6RQIrTsLeXpUHipDQ_tZ7u70-D1Vrp"
-          alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">47 Branch Creek Dr, Jackson TN</h5>
-          <p class="card-text">Rental Price (Per Day): $349.59</p>
-          <p class="card-text">4 bed and 3 bath</p>
-          <p class="card-text">A great house in a great neighborhood. This home is perfect for some one
-            that wants to live as a wealthy home owner but doesn't want the glitz and glamor of a mansion.
-          </p>
-          <a href="#" class="btn btn-primary">Rent</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-auto">
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top"
-          src="https://drive.google.com/uc?export=view&id=1BwqQgcMLhbgVnIupJrnoyB1pPKd5o7Kj"
-          alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">594 S Mapleton Dr, Los Angeles, CA</h5>
-          <p class="card-text">Rental Price (Per Day): $759.25</p>
-          <p class="card-text">14 bed and 27 bath</p>
-          <p class="card-text">Featuring a Tennis court, pool, beauty salon and library; you'll never
-            be dissapointed in this home. Such a large home with so many features is deserving of a soon to be
-            wealthy person such as yourself.
-          </p>
-          <a href="#" class="btn btn-primary">Rent</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-auto">
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top"
-          src="https://drive.google.com/uc?export=view&id=1vYHCqsjEirIL2pEfUDequUGbK72Cwlzq"
-          alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">217 W, New York, NY 10019</h5>
-          <p class="card-text">Rental Price (Per Day): $600.69</p>
-          <p class="card-text">7 bed and 11 bath</p>
-          <p class="card-text">Located on Billionaires Row, this large and glamourous penthouse
-            overlooks much of Manhattan. The Pentouse comes with everything you need and more, including a
-            pool, private elevator, media room, and gym.
-          </p>
-          <a href="#" class="btn btn-primary">Rent</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-auto">
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top"
-          src="https://drive.google.com/uc?export=view&id=1iLZ5y4x5aHTRvzkIdugQD8Ryj7biwg8r"
-          alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">4001 E Quincy Avenue, Cherry Hills Village, CO 80113</h5>
-          <p class="card-text">Rental Price (Per Day): $548.99</p>
-          <p class="card-text"> Just outside of Denver is this beautiful, quite, and large home.
-            A perfect location for a millionaire to relax, outside of the busy, bustling, loud city.
-            Some features of the home include a pool, spa, gorgeous
-            Backyard, and a yoga room.
-          </p>
-          <a href="#" class="btn btn-primary">Rent</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-auto">
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top"
-          src="https://drive.google.com/uc?export=view&id=1UIyUXtD1oJjiAtixplInh5NlinZEXod8"
-          alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">7948 Red Tail Ct, Heber City, UT 84060</h5>
-          <p class="card-text">Rental Price (Per Day): $496.99</p>
-          <p class="card-text">6 bed 8 bath</p>
-          <p class="card-text"> Surrounded by the beatuiful state of Utah, This home
-            is the perfect place for a millionaire's mountain getaway. While the house offers
-            feautres such as a heated pool, patio, sauna, and hot tub, the home is also located very close 
-            to Deer Valley Ski Resort, so you can go skiing.
-          </p>
-          <a href="#" class="btn btn-primary">Rent</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-auto">
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top"
-          src="https://drive.google.com/uc?export=view&id=1bgkrqzyig95ZPU1U81yDdeS1ESx_sYEE"
-          alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">1150 W Garmon Rd, Sandy Springs, GA 30327</h5>
-          <p class="card-text">This Georgia home, located just outside of Atlanta, offers many features such as a pool, wine cellar, and even a separate guest house on the same property. </p>
-          <a href="#" class="btn btn-primary">Rent</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-auto">
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top"
-          src="https://drive.google.com/uc?export=view&id=18wnZ421Y0n27-iMiQKpIZt01LinpgI2x"
-          alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">1005 NE Doubloon Dr, Stuart, FL 34996</h5>
-          <p class="card-text">Rental Price (Per Day): 792.59</p>
-          <p class="card-text">4 bed and 8 bath</p>
-          <p class="card-text">Located Near the livley city of Miami, This Beach house
-            provides beautiful views and access to the private beach, which can be all yours.
-            This beach house features a game room, spa, gym, and home office for all your
-            "real" multi-million dollar bussiness managing needs.
-          </p>
-          <a href="#" class="btn btn-primary">Rent</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-auto">
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top"
-          src="https://drive.google.com/uc?export=view&id=1DenWFZfp4c8QPQcg2df9t_IFtRg79Lo9"
-          alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">91 Hawk Ridge Dr, Las Vegas, NV 89135
-          </h5>
-          <p class="card-text">Rental Price (Per Day): $666.99</p>
-          <p class="card-text">Located on the outskirts of Fabulous Las Vegas Nevada, this home is perfect for partying in day and night. This home is loaded with features such as a bar, wine room, patio, and pool. With so many features in one place, there will never be a dull moment in your Las Vegas party.</p>
-          <a href="#" class="btn btn-primary">Rent</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-auto">
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top"
-          src="https://drive.google.com/uc?export=view&id=1e2enefKcXxMwwDPCUBt_hTSe7X6nAgkC"
-          alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">1625 Federal Avenue E, Seattle, WA
-            98102</h5>
-          <p class="card-text">Rental Price (Per Day): $643.26</p>
-          <p>5 Bed 10 Bath</p>
-          <p class="card-text">A beautiful Seattle home with a Pool and Hot Tub, Spa, Tennis Court and Wine Cellar.
-            This home is a great living space with lots of activites and entertainment, all in one area. A perfect place
-          to live, while enjoying a luxurious and comfortable life.  </p>
-          <a href="#" class="btn btn-primary">Rent</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div> -->
 </body>

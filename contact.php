@@ -202,7 +202,7 @@ include_once 'includes/dbh.inc.php';
           </form> -->
 <div class="container py-4">
 
-<form id="contactForm" action="http://yourdomain.com/contact.php" method="POST">
+<form id="contactForm" action="http://localhost/FakeItTillYouMakeIt/contact.php" method="POST">
 
     <div class="mb-3">
       <label class="form-label" for="name">Name</label>
@@ -243,6 +243,10 @@ include_once 'includes/dbh.inc.php';
       </div>
     </div>
   </div>
+  <br>
+  <br>
+  <br>
+
   <?php
   include 'footer.php'
   ?>

@@ -406,6 +406,10 @@ include_once 'includes/dbh.inc.php';
     </div>
   </div>
   </div>
+  <br>
+  <br>
+  <br>
+
   <?php
   include 'footer.php'
   ?>
