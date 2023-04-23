@@ -17,6 +17,7 @@ include_once 'includes/dbh.inc.php';
     integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
   </script>
 <body>
+    
   <?php
   $conn;
   ?>
@@ -30,20 +31,12 @@ include_once 'includes/dbh.inc.php';
     <br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
     <section id="text_1">
     <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-        </div>
-        <div class="col-md-6">
-          <h1 style="background-color:rgba(0, 0, 0, 0);color:black;">Fake it Till You Make it</h1>
-          <p style="background-color:rgba(0, 0, 0, 0);color:rgb(0, 0, 0);"> Est. 2023
+      <div class="row text-center">
+      <h1 style="background-color:rgba(0, 0, 0, 0);color:black;">Welcome to <br> Fake it Till You Make it</h1>
+          <p style="background-color:rgba(0, 0, 0, 0);color:rgb(0, 0, 0);"> Helping individuals reach millionaire status since 2023
           </p>
-
-        </div>
       </div>
     </div>
   </section>

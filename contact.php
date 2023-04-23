@@ -201,9 +201,9 @@ include_once 'includes/dbh.inc.php';
         <div class="col-md-8 text-white">
            <h3 class="text-center">Contact Us</h3>
            <p>Send E-Mail</p>
-          <form class="contact-form" action="contactform.php" method="post">
+          <form class="contact-form form-control" action="contactform.php" method="post" >
             <div class="row">
-            <input type="text" name= "name" placeholder="Full name">
+            <input type="text" name= "name" placeholder="First and Last Name">
             </div>
             <div class="row">
             <input type="text" name="email" placeholder="Your e-mail">
@@ -213,7 +213,7 @@ include_once 'includes/dbh.inc.php';
             </div>
             <div class="row">
             <textarea name= "message" placeholder="Message"></textarea>
-           <button type="submit" name="submit">SEND MAIL</button>
+           <button class="btn btn-warning" type="submit" name="submit">SEND MAIL</button>
             </div>
           </form> 
         <div class="text-center text-md-left">
