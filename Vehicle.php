@@ -352,7 +352,7 @@ include_once 'includes/dbh.inc.php';
               <h5 class="card-title">2009 Ford F-350 Platinum Extended Cab Dully Edition 6.4 L V8 Diesel (White)</h5>
               <p class="card-text">Class: Hyper</p>
               <p class="card-text">Rental Price (Per Day): $81.65</p>
-              <p class="card-text">Built Ford Tough. The F-350 is the most fastest, luxurious vehicle on the planet. The
+              <p class="card-text">Built Ford Tough. The F-350 is the fastest, and most luxurious vehicle on the planet. The
                 F-350 is the most powerful there is,
                 made for a powerful individual.
               </p>

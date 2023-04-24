@@ -95,12 +95,7 @@ include_once 'includes/dbh.inc.php';
             the thrill of driving a luxurious car.
           </p>
           <h3 class="about_txt">Clothing</h3>
-          <p class="about_txt">Our housing options consist of beautiful,
-            spacious and fully furnished homes that are located in the most sought-after neighborhoods
-            and are equipped with the latest technology and amenities.
-            The homes are ideal for individuals who are looking for a
-            temporary place to stay during their travels or for those who want to experience
-            a luxurious lifestyle without committing to a long-term lease.
+          <p class="about_txt">Our luxury clothing rental service is perfect for those who want to dress to impress without breaking the bank. Whether it's for a special occasion or just for everyday wear, our rental options allow you to indulge in luxury fashion without the commitment of purchasing a pricey item.
           </p>
 
         </div>

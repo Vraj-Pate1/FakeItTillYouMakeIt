@@ -107,7 +107,7 @@ include_once 'includes/dbh.inc.php';
             <p class="card-text">Rental Price (Per Day): $759.25</p>
             <p class="card-text">14 bed and 27 bath</p>
             <p class="card-text">Featuring a Tennis court, pool, beauty salon and library; you'll never
-              be dissapointed in this home. Such a large home with so many features is deserving of a soon to be
+              be dissapointed with this home. Such a large home with so many features is deserving of a soon to be
               wealthy person such as yourself.
             </p>
             <!-- Button trigger modal -->
@@ -306,7 +306,7 @@ include_once 'includes/dbh.inc.php';
             <h5 class="card-title">7948 Red Tail Ct, Heber City, UT 84060</h5>
             <p class="card-text">Rental Price (Per Day): $496.99</p>
             <p class="card-text">6 bed 8 bath</p>
-            <p class="card-text"> Surrounded by the beatuiful state of Utah, This home
+            <p class="card-text"> Surrounded by the beatuiful state of Utah, this home
               is the perfect place for a millionaire's mountain getaway. While the house offers
               feautres such as a heated pool, patio, sauna, and hot tub, the home is also located very close
               to Deer Valley Ski Resort, so you can go skiing.

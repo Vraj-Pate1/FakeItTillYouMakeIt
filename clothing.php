@@ -31,7 +31,7 @@ include_once 'includes/dbh.inc.php';
           <div class="card-body">
             <h5 class="card-title">White Versace Suit</h5>
             <p class="card-text">Rental Price (Per Day): $63.97</p>
-            <p class="card-text">This white suit speaks style and fashion. Guarateed to turn heads at any event this
+            <p class="card-text">This stunning white suit just speaks style and fashion. Guarateed to turn heads at any event this
               high-end Versace suit commands respect and attention, worn by many celeberties, such as the fragrance king
               himself, Jeremy Fragrance.</p>
             <!-- Button trigger modal -->
