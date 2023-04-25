@@ -34,12 +34,12 @@ include_once 'includes/dbh.inc.php';
             <p class="card-text">This stunning white suit just speaks style and fashion. Guarateed to turn heads at any event this
               high-end Versace suit commands respect and attention, worn by many celeberties, such as the fragrance king
               himself, Jeremy Fragrance.</p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop19">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop19" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -73,12 +73,12 @@ include_once 'includes/dbh.inc.php';
             <p class="card-text">Part of the Dior Dream capusule collection, this beautiful white silk dress brings out
               the elegance in any one who wears it, allowing the silhouette to stand out as the wearer radiates a look
               of fashion and sophistication.</p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop20">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop20" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -113,12 +113,12 @@ include_once 'includes/dbh.inc.php';
               elegance. It's perfect for a wedding, business meeting, or any formal occasion that requires a touch of
               class. Crafted from the finest quality materials, this suit is designed to stand the test of time,
               ensuring you always look sharp and put-together, no matter the occasion.</p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop21">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop21" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -156,12 +156,12 @@ include_once 'includes/dbh.inc.php';
               the bank. Whether you're attending a high-end event or just want to elevate your everyday style, this
               dress is sure to turn heads and make you feel like a true fashion icon.
             </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop22">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop22" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -199,12 +199,12 @@ include_once 'includes/dbh.inc.php';
               the light and adds to the dress's overall allure.
 
             </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop23">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop23" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -243,12 +243,12 @@ include_once 'includes/dbh.inc.php';
               piece. Renting this dress for a special occasion is a great way to stand out and make a statement, while
               also supporting a collaboration with a great company that believes in adding a little bit of zest to life.
             </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop24">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop24" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -288,12 +288,12 @@ include_once 'includes/dbh.inc.php';
             choice for any occasion, whether you're looking to make a fashion statement or simply want to stay
             comfortable while out and about.
           </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop25">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop25" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -331,12 +331,12 @@ include_once 'includes/dbh.inc.php';
             stays warm and comfortable while wearing it. Overall, the Maximilian Brown Mink Fur Coat is a luxurious and
             timeless piece that will last for many years to come. It is the perfect investment for anyone looking to add
             a touch of glamour and sophistication to their winter wardrobe.</p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop26">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop26" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -371,12 +371,12 @@ include_once 'includes/dbh.inc.php';
             touch of playful charm to any outfit. The slim fit cut enhances your silhouette, while the notch lapel and
             two-button closure provide a classic and timeless look. This blazer is designed for men who want to stand
             out in a crowd with a bold and sophisticated style.</p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop27">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop27" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">

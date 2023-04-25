@@ -37,12 +37,12 @@ include_once 'includes/dbh.inc.php';
             <p class="card-text">Equiped with a roaring German V8, this car is sure to turn some heads.
               The AMG GT Black Series is perfect for Track days and as a status symbol.
             </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop10">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop10" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -100,12 +100,12 @@ include_once 'includes/dbh.inc.php';
             <p class="card-text"> A Lamborghini for 5. The Urus comes equipped with a twin-turbo V8
               packed with power and fun. Hauling your friends around has never been so stylish.
             </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop11">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop11" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -165,12 +165,12 @@ include_once 'includes/dbh.inc.php';
                 You may ask yourself,"why would anyone drive a lemon?" or "Is this even practical?"
                 And our answer to that is: It doesn't need be practical or make sense, Its a lemon car!
               </p>
-              <!-- Button trigger modal -->
+              
               <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop12">
                 Learn More
               </button>
 
-              <!-- Modal -->
+              
               <div class="modal fade" id="staticBackdrop12" data-bs-backdrop="static" data-bs-keyboard="false"
                 tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered">
@@ -230,12 +230,12 @@ include_once 'includes/dbh.inc.php';
                 all the features mercedes offers
                 there will never be a dull moment in this car. Make your experience even better with an optional driver.
               </p>
-              <!-- Button trigger modal -->
+              
               <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop13">
                 Learn More
               </button>
 
-              <!-- Modal -->
+              
               <div class="modal fade" id="staticBackdrop13" data-bs-backdrop="static" data-bs-keyboard="false"
                 tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered">
@@ -292,12 +292,12 @@ include_once 'includes/dbh.inc.php';
               <p class="card-text">Rental Price (Per Day): $287.29</p>
               <p class="card-text">Equipped with a EcoBoost V6, the 2017 Ford Gt keeps the legacy of the Gt going. 
                 The Gt is a exclusive vehicle for individuals Ford selects. Driving the Gt is both an honor and a great experience.</p>
-              <!-- Button trigger modal -->
+              
               <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop14">
                 Learn More
               </button>
 
-              <!-- Modal -->
+              
               <div class="modal fade" id="staticBackdrop14" data-bs-backdrop="static" data-bs-keyboard="false"
                 tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered">
@@ -356,12 +356,12 @@ include_once 'includes/dbh.inc.php';
                 F-350 is the most powerful there is,
                 made for a powerful individual.
               </p>
-              <!-- Button trigger modal -->
+              
               <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop15">
                 Learn More
               </button>
 
-              <!-- Modal -->
+              
               <div class="modal fade" id="staticBackdrop15" data-bs-backdrop="static" data-bs-keyboard="false"
                 tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered">
@@ -420,12 +420,12 @@ include_once 'includes/dbh.inc.php';
                 of the most beautiful cars
                 designed by Toyota. The Century was trully ahead of its time in 1994, introducing many fueatures
                 which are found in modern day Rolls Royces. Truly unique car for a unique individual.</p>
-              <!-- Button trigger modal -->
+              
               <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop16">
                 Learn More
               </button>
 
-              <!-- Modal -->
+              
               <div class="modal fade" id="staticBackdrop16" data-bs-backdrop="static" data-bs-keyboard="false"
                 tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered">
@@ -484,12 +484,12 @@ include_once 'includes/dbh.inc.php';
                 is the best car to go from point A to point B, in style of course. Equipped with a British V12, the
                 Phantom really moves.
               </p>
-              <!-- Button trigger modal -->
+              
               <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop17">
                 Learn More
               </button>
 
-              <!-- Modal -->
+              
               <div class="modal fade" id="staticBackdrop17" data-bs-backdrop="static" data-bs-keyboard="false"
                 tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered">
@@ -553,12 +553,12 @@ include_once 'includes/dbh.inc.php';
                 day, as it has a
                 ageless deisgn that will turn heads everywhere you go.
               </p>
-              <!-- Button trigger modal -->
+              
               <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop18">
                 Learn More
               </button>
 
-              <!-- Modal -->
+              
               <div class="modal fade" id="staticBackdrop18" data-bs-backdrop="static" data-bs-keyboard="false"
                 tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered">

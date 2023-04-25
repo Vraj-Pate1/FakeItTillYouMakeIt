@@ -43,12 +43,12 @@ include_once 'includes/dbh.inc.php';
               This mansion is perfect for throwing Friday Night parties or relaxing on a Sunday.
             </p>
 
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop1">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop1" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -110,11 +110,11 @@ include_once 'includes/dbh.inc.php';
               be dissapointed with this home. Such a large home with so many features is deserving of a soon to be
               wealthy person such as yourself.
             </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">
               Learn More
             </button>
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop2" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -175,12 +175,12 @@ include_once 'includes/dbh.inc.php';
               overlooks much of Manhattan. The Pentouse comes with everything you need and more, including a
               pool, private elevator, media room, and gym.
             </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop3">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop3" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -242,12 +242,12 @@ include_once 'includes/dbh.inc.php';
               Some features of the home include a pool, spa, gorgeous
               Backyard, and a yoga room.
             </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop4">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop4" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -311,12 +311,12 @@ include_once 'includes/dbh.inc.php';
               feautres such as a heated pool, patio, sauna, and hot tub, the home is also located very close
               to Deer Valley Ski Resort, so you can go skiing.
             </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop5">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop5" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -378,12 +378,12 @@ include_once 'includes/dbh.inc.php';
             <p class="card-text">This Georgia home, located just outside of Atlanta,
               offers many features such as a pool, wine cellar, and even a separate
               guest house on the same property. </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop6">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop6" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -445,12 +445,12 @@ include_once 'includes/dbh.inc.php';
               This beach house features a game room, spa, gym, and home office for all your
               "real" multi-million dollar bussiness managing needs.
             </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop7">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop7" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -511,12 +511,12 @@ include_once 'includes/dbh.inc.php';
             <p class="card-text">Located on the outskirts of Fabulous Las Vegas Nevada, this home is perfect for
               partying in day and night. This home is loaded with features such as a bar, wine room, patio, and pool.
               With so many features in one place, there will never be a dull moment in your Las Vegas party.</p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop8">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop8" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">
@@ -578,12 +578,12 @@ include_once 'includes/dbh.inc.php';
               This home is a great living space with lots of activites and entertainment, all in one area. A perfect
               place
               to live, while enjoying a luxurious and comfortable life. </p>
-            <!-- Button trigger modal -->
+            
             <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#staticBackdrop9">
               Learn More
             </button>
 
-            <!-- Modal -->
+            
             <div class="modal fade" id="staticBackdrop9" data-bs-backdrop="static" data-bs-keyboard="false"
               tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered">

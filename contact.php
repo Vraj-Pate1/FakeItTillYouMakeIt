@@ -39,12 +39,12 @@ include_once 'includes/dbh.inc.php';
         <div class="col-md-4 text-center">
           <h3 class="text-white">Terms and Conditions</h3>
 
-          <!-- Button trigger modal -->
+          
           <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#fullscreenModal">
             Terms and Conditions
           </button>
         </div>
-        <!-- Fullscreen Modal -->
+        
         <div class="modal fade" id="fullscreenModal" tabindex="-1" aria-labelledby="fullscreenModalLabel"
           aria-hidden="true">
           <div class="modal-dialog modal-fullscreen">
